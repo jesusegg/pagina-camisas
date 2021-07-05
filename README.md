@@ -10,7 +10,7 @@
 Created with Html-Css-Sass-Javascript
 
 ---
-[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/concierto.png" />](https://frontendjesusgedler.netlify.app/)
+[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/camisas.png" />](https://frontendjesusgedler.netlify.app/)
 ---
 #### You can view this project [Here](https://frontendjesusgedler.netlify.app/) 
 
